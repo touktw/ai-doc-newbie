@@ -12,3 +12,6 @@
 # Temp
 *.tmp
 *.bak
+
+# Claude
+.claude/
